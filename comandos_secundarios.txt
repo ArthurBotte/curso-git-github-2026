@@ -1,0 +1,6 @@
+esse arquivo contém informações adicionais para git
+
+-Primeiro comando
+-Segundo comando
+
+TESTE ZIKA
