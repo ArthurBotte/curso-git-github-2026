@@ -4,3 +4,7 @@ esse arquivo contém informações adicionais para git
 -Segundo comando
 
 TESTE ZIKA
+
+# Comandos mais genéricos
+
+- comandos estranhos
